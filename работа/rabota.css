@@ -1,0 +1,193 @@
+.img {
+height: 105px;
+width: 105px;
+
+
+
+}
+
+header {
+
+    font-style: unset;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #34294A    ;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    font-size: 20px;
+    z-index: 999999;
+
+
+}
+
+.snus {
+    position: absolute;
+    top: 35px;
+    right: 50px;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(248, 170, 0);
+}
+
+a:active {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.bebra {
+    position: absolute;
+    top: 35px;
+    right: 1100px;
+
+    }
+
+.bebra2 {
+
+        position: absolute;
+        top: 35px;
+        right: 800px;
+
+        }
+
+        .nnn {
+            background-color: #34294A    ;
+            position: absolute;
+            top: 100px;
+            left: 0px;
+            width: 100%;
+            height: 600px;
+            opacity: .4;
+
+        }
+
+.sss {
+ 
+    background: url(https://images2.alphacoders.com/739/739164.jpg);
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    width: 100%;
+    height: 600px;
+    
+    
+    
+
+        }
+
+     
+
+
+.ggg {
+ 
+    background: url(https://img.freepik.com/vector-gratis/conexion-red-global-composicion-puntos-lineas-mapa-mundial_41981-1657.jpg?w=1060);
+    position: absolute;
+    top: 700px;
+    left: 0px;
+    width: 100%;
+    height: 650px;
+    opacity: .4;
+
+        }
+
+
+.rrr {
+
+    position: absolute;
+    top: 160px;
+    left: 12%;
+    font-size: 60px;
+    font-style: unset;
+    color: white;
+    opacity: 1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    
+
+
+}
+        
+
+.ttt {
+
+    position: absolute;
+    top: 1000px;
+    left: 12%;
+    font-size: 60px;
+    font-style: unset;
+    color: black;
+    opacity: 1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    
+
+
+}
+
+footer {
+    font-style: unset;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #34294A    ;
+    color: white;
+    position: absolute;
+    top: 1330px;
+    left: 0px;
+    width: 100%;
+    height: 90px;
+    font-size: 20px;
+    z-index: 9;
+
+
+}
+
+ 
+.bebroc {
+
+    position: absolute;
+    top: 310px;
+    left: 50%;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+ 
+
+}
+
+
+.eee {
+    position: absolute;
+    width: 230px;
+    height: 100px;
+    background-color: #34294A    ;
+    opacity: .8;
+    top: 280px;
+    left: 48%;
+
+
+}
+
+.bustt {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    position: absolute;
+    top: 1335px;
+    left: 44%;
+    z-index: 10;
+
+}
+
+
+ 
+ 
+
+
